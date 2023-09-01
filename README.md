@@ -2,7 +2,7 @@
 Winning submission for the 2024 ATLytics datathon, assessing homelessness trends over time in Atlanta
 
 ## Presentation File
-●	FinalPresentation_TeamIndigo.pdf: PPT presentation containing our analysis and visualizations, as well as links to a Tableau dashboard to further explore the data
+●	Slide Deck_TeamIndigo.pdf: PPT presentation containing our analysis and visualizations, as well as links to a Tableau dashboard to further explore the data
 
 ## Code Files
 ●	EDA_and_Tableau_Manip.ipyn: This dataframe takes as its inputs the raw PIT and HIC data in the format shared by the ATLytics team and outputs a series of dataframes:
